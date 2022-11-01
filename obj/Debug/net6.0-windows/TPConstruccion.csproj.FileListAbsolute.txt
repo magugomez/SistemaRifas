@@ -1,0 +1,17 @@
+C:\Users\Usuario\OneDrive\Documentos\Facu\3ro\Construcción de software\TP\TPConstruccion\bin\Debug\net6.0-windows\TPConstruccion.exe
+C:\Users\Usuario\OneDrive\Documentos\Facu\3ro\Construcción de software\TP\TPConstruccion\bin\Debug\net6.0-windows\TPConstruccion.deps.json
+C:\Users\Usuario\OneDrive\Documentos\Facu\3ro\Construcción de software\TP\TPConstruccion\bin\Debug\net6.0-windows\TPConstruccion.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Documentos\Facu\3ro\Construcción de software\TP\TPConstruccion\bin\Debug\net6.0-windows\TPConstruccion.dll
+C:\Users\Usuario\OneDrive\Documentos\Facu\3ro\Construcción de software\TP\TPConstruccion\bin\Debug\net6.0-windows\TPConstruccion.pdb
+C:\Users\Usuario\OneDrive\Documentos\Facu\3ro\Construcción de software\TP\TPConstruccion\obj\Debug\net6.0-windows\TPConstruccion.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\Facu\3ro\Construcción de software\TP\TPConstruccion\obj\Debug\net6.0-windows\TPConstruccion.Form1.resources
+C:\Users\Usuario\OneDrive\Documentos\Facu\3ro\Construcción de software\TP\TPConstruccion\obj\Debug\net6.0-windows\TPConstruccion.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Documentos\Facu\3ro\Construcción de software\TP\TPConstruccion\obj\Debug\net6.0-windows\TPConstruccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documentos\Facu\3ro\Construcción de software\TP\TPConstruccion\obj\Debug\net6.0-windows\TPConstruccion.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\Facu\3ro\Construcción de software\TP\TPConstruccion\obj\Debug\net6.0-windows\TPConstruccion.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documentos\Facu\3ro\Construcción de software\TP\TPConstruccion\obj\Debug\net6.0-windows\TPConstruccion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\Facu\3ro\Construcción de software\TP\TPConstruccion\obj\Debug\net6.0-windows\TPConstruccion.dll
+C:\Users\Usuario\OneDrive\Documentos\Facu\3ro\Construcción de software\TP\TPConstruccion\obj\Debug\net6.0-windows\refint\TPConstruccion.dll
+C:\Users\Usuario\OneDrive\Documentos\Facu\3ro\Construcción de software\TP\TPConstruccion\obj\Debug\net6.0-windows\TPConstruccion.pdb
+C:\Users\Usuario\OneDrive\Documentos\Facu\3ro\Construcción de software\TP\TPConstruccion\obj\Debug\net6.0-windows\TPConstruccion.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Documentos\Facu\3ro\Construcción de software\TP\TPConstruccion\obj\Debug\net6.0-windows\ref\TPConstruccion.dll
